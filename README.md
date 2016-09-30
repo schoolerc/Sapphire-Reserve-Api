@@ -1,24 +1,24 @@
-# README
+#Sapphire Reserve API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##What am I?
 
-Things you may want to cover:
+This is a repository containing a ruby on rails application, in its infancy, designed to co exist with The Sapphire Reserve.
 
-* Ruby version
+##Why do I exist?
 
-* System dependencies
+To provide an RESTful API endpoint for The Sapphire Reserve that can handle up to but maybe more:
 
-* Configuration
+* User Authentication
+* Storing Session Information
+* Storing and Organizing User Generated Content (This actually is a lot more than one bullet but for now this is fine)
 
-* Database creation
+##Wow that's so cool!
 
-* Database initialization
+I know right?
 
-* How to run the test suite
+##Except there isn't really a lot of information so...
 
-* Services (job queues, cache servers, search engines, etc.)
+Currently the focus of my development time is on The Sapphire Reserve site itself because you kinda need someone to consume the API otherwise having an API doesn't do you much.
+There are also features of the site that won't require this API and I'd like to complete those first.
 
-* Deployment instructions
-
-* ...
+If you're interested at all in either project, I'm open to other contributors at the moment.
